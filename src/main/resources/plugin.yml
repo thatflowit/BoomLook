@@ -1,0 +1,9 @@
+name: BoomLook
+version: '${project.version}'
+main: it.thatflow.boomlook.BoomLookPlugin
+authors: [thatflow]
+description: Create an explosion where you look
+commands:
+  boomlook:
+    description: Creates explosion
+    aliases: bl
